@@ -25,6 +25,21 @@
     bottom: 0;
     
 }
+.clouds{
+    position: absolute;
+    width: 550px;
+    animation: slider 20s infinite linear;
+}
+
+
+
+
+
+
+
+
+
+
 .jump{
     animation: jump 500ms ease-out;
 }
