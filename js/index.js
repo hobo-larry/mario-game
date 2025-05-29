@@ -32,7 +32,7 @@ document.addEventListener('keydown', (event)=> {
       restartGame();
     }
   );
-
+//handle collision
 
 
 function collision() {
