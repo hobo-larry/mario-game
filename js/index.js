@@ -9,7 +9,7 @@ restart.addEventListener('click', ()=> {
     
   });
 
-
+//handle jump
 
     document.addEventListener('keydown',  (event) => {
         if (event.key === ' ') {
